@@ -1,0 +1,1 @@
+/home/rokosbasilisk/Desktop/Gan_Examples/vanilla_GAN/plane
